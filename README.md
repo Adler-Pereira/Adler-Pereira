@@ -1,8 +1,5 @@
 # 👋🏻 Olá, eu sou Adler Lima!
 
-## 🚀 Sobre mim
-Curioso por tecnologia, comecei minha jornada como desenvolvedor em 2022 ao iniciar um curso **técnico** em *Desenvolvimento de Sistemas* pela **Proz**🟣. Ao finalizar em 2023, comecei no ano seguinte meu **tecnólogo** em *Análise e Desenvolvimento de Sistemas* na **Fatec**, onde continuo buscando aprimorar minhas habilidades e criar projetos que me desafiem e me forneçam novos aprendizados. Atualmente, com 19 anos, estou focado em desenvolvimento **web**, explorando novas tecnologias e aprimorando minhas habilidades em **JavaScript, HTML, CSS e Java**.
-
 ## 🛠️ Tecnologias & Ferramentas mais usadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Adler-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
