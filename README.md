@@ -25,7 +25,7 @@ Outras experiências:
 
 ## 📌 Projetos Destacados
 Aqui estão alguns dos meus projetos:
-- 📱 **Jogo Termo** - Um projeto que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java.
+- 📱 **Jogo Termo** - Um projeto pessoal que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java. [Em andamento]
 
 ## 📫 Contato
 <div>
