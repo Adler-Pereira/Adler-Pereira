@@ -1,5 +1,3 @@
-<div align="center"><img height="180em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJzcjhvYm5iZ2lxc2hyNXZxaWdqdHFtcG15N2owMWRobGVldjI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/crsdhCl57CLyJ1s4KY/giphy.gif"/></div>
-
 # 👋🏻 Olá, eu sou Adler Lima!
 <div>
   <a href="https://github.com/Adler-Pereira">
@@ -7,7 +5,7 @@
 </div>
 
 ## 🛠️ Tecnologias & Ferramentas
-Mais usadas:
+Mais usadas:<img height="300em" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJzcjhvYm5iZ2lxc2hyNXZxaWdqdHFtcG15N2owMWRobGVldjI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/crsdhCl57CLyJ1s4KY/giphy.gif"/>
 <div style="display: inline_block">
   <img align="center" alt="Adler-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Adler-Maven" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
