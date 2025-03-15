@@ -1,5 +1,5 @@
 # 👋🏻 Olá, eu sou Adler Lima!
-<div>
+<div align="center">
   <a href="https://github.com/Adler-Pereira">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Adler-Pereira&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adler-Pereira&layout=donut&langs_count=16&theme=tokyonight&locale=pt-br"/>
 </div>
@@ -17,7 +17,7 @@ Outras experiências:
 <div style="display: inline_block"><br>
   <img align="center" alt="Adler-MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Adler-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Adler-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Adler-Kotlin" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Adler-Compose" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
 </div>
 
