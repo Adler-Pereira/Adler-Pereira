@@ -1,5 +1,6 @@
-# 👋🏻 Olá, eu sou Adler Lima!
+<div align="center"><img height="180em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJzcjhvYm5iZ2lxc2hyNXZxaWdqdHFtcG15N2owMWRobGVldjI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/crsdhCl57CLyJ1s4KY/giphy.gif"/></div>
 
+# 👋🏻 Olá, eu sou Adler Lima!
 <div>
   <a href="https://github.com/Adler-Pereira">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Adler-Pereira&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adler-Pereira&layout=donut&langs_count=16&theme=tokyonight&locale=pt-br"/>
