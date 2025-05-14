@@ -15,10 +15,11 @@ Mais usadas:
 </div><br>
 Outras experiências:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Adler-MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Adler-MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Adler-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Adler-Kotlin" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Adler-Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Adler-Compose" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
+  <img align="center" alt="Adler-Python" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
 ## 📌 Projetos Destacados
