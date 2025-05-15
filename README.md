@@ -25,6 +25,7 @@ Outras experiências:
 ## 📌 Projetos Destacados
 Aqui estão alguns dos meus projetos:
 - 📱 **Jogo Termo** - Um projeto pessoal que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java. [Em andamento]
+- ⚖️ **Balança de Pratos** - Um projeto escolar que mostra de maneira didática o conceito de equivalência em uma equação matemática.
 
 ## 📫 Contato
 <div>
