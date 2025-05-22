@@ -20,12 +20,13 @@ Outras experiências:
   <img align="center" alt="Adler-Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Adler-Compose" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
   <img align="center" alt="Adler-Python" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Adler-Docker" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 ## 📌 Projetos Destacados
 Aqui estão alguns dos meus projetos:
 - 📱 **Jogo Termo** - Um projeto pessoal que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java. [Em andamento]
-- ⚖️ **Balança de Pratos** - Um projeto escolar que mostra de maneira didática o conceito de equivalência em uma equação matemática.
+- ⚖️ **Balança de Pratos** - Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.
 
 ## 📫 Contato
 <div>
