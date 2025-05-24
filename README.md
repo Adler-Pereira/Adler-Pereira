@@ -28,6 +28,8 @@ Aqui estão alguns dos meus projetos:
 - 📱 **Jogo Termo** - Um projeto pessoal que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java. [Em andamento]
 - ⚖️ **Balança de Pratos** - Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.
 
+🧑‍💻*Portfólio: <a href="https://adler-pereira.github.io/portfolio/" target="_blank">https://adler-pereira.github.io/portfolio/</a>*
+
 ## 📫 Contato
 <div>
   <a href="https://www.linkedin.com/in/adlerlima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
