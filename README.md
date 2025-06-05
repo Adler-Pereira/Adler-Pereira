@@ -27,6 +27,7 @@ Outras experiências:
 Aqui estão alguns dos meus projetos:
 - 📱 **Jogo Termo** - Um projeto pessoal que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java. [Em andamento]
 - ⚖️ **Balança de Pratos** - Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.
+- 👨‍👩‍👧‍👦 **Árvore Genealógica** - Um projeto de tecnólogo que utiliza de conceitos de estrutura de dados para construir uma árvore genealógica, utilizando nós e listas.
 
 🧑‍💻*Portfólio: <a href="https://adler-pereira.github.io/portfolio/" target="_blank">https://adler-pereira.github.io/portfolio/</a>*
 
