@@ -29,7 +29,7 @@
         <img align="center" alt="Adler-PostgreSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
       </td>
       <td>
-        <img align="center" alt="Adler-Python" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+        <img align="center" alt="Adler-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
         <img align="center" alt="Adler-Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
         <img align="center" alt="Adler-Compose" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
       </td>
