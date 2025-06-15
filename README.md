@@ -5,7 +5,7 @@
 </div>
 
 ## 🛠️ Tecnologias & Ferramentas
-Mais usadas:
+<b>Mais usadas:</b>
 <div style="display: inline_block">
   <img align="center" alt="Adler-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Adler-Maven" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
@@ -13,16 +13,33 @@ Mais usadas:
   <img align="center" alt="Adler-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Adler-CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div><br>
-Outras experiências:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Adler-MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Adler-PostgreSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Adler-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Adler-Python" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Adler-Insomnia" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
-  <img align="center" alt="Adler-Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Adler-Compose" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
-</div>
+<b>Outras experiências:</b><br><br>
+<table>
+  <thead>
+    <tr>
+      <th>Banco de Dados</th>
+      <th>Linguagens e Frameworks</th>
+      <th>Outras Ferramentas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img align="center" alt="Adler-MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+        <img align="center" alt="Adler-PostgreSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+      </td>
+      <td>
+        <img align="center" alt="Adler-Python" height="85" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+        <img align="center" alt="Adler-Kotlin" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+        <img align="center" alt="Adler-Compose" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
+      </td>
+      <td>
+        <img align="center" alt="Adler-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+        <img align="center" alt="Adler-Insomnia" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📌 Projetos Destacados
 Aqui estão alguns dos meus projetos:
