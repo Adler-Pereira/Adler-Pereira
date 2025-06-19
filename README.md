@@ -25,7 +25,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr align="center">
       <td>
         <img align="center" alt="Adler-MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
         <img align="center" alt="Adler-PostgreSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
