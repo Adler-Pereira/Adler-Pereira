@@ -37,6 +37,7 @@
       </td>
       <td>
         <img align="center" alt="Adler-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+        <img align="center" alt="Adler-Railway" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
       </td>
     </tr>
   </tbody>
