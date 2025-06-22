@@ -38,6 +38,7 @@
       <td>
         <img align="center" alt="Adler-AWS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
         <img align="center" alt="Adler-Railway" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
+        <img align="center" alt="Adler-Render" height="70" width="70" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png">
       </td>
     </tr>
   </tbody>
