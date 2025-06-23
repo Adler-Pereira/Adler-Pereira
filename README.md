@@ -21,7 +21,7 @@
     <tr>
       <th>Banco de Dados</th>
       <th>Linguagens e Frameworks</th>
-      <th>Outras Ferramentas</th>
+      <th>Plataformas de Nuvem</th>
     </tr>
   </thead>
   <tbody>
