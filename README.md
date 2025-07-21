@@ -39,9 +39,9 @@
       <td>
         <img align="center" alt="Adler-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
         <img align="center" alt="Adler-Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+        <img align="center" alt="Adler-GoogleCloud" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
         <img align="center" alt="Adler-Railway" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
         <img align="center" alt="Adler-Render" height="50" width="50" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png">
-        <img align="center" alt="Adler-GoogleCloud" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
       </td>
     </tr>
   </tbody>
