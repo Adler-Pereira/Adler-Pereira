@@ -20,7 +20,8 @@
     <tr>
       <th>Banco de Dados</th>
       <th>Plataformas de Nuvem</th>
-      <th>Linguagens e Frameworks</th>
+      <th>Linguagens</th>
+      <th>Frameworks</th>
     </tr>
   </thead>
   <tbody>
@@ -42,6 +43,8 @@
         <img align="center" alt="Adler-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
         <img align="center" alt="Adler-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
         <img align="center" alt="Adler-Kotlin" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+      </td>
+      <td>
         <img align="center" alt="Adler-Compose" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
       </td>
     </tr>
