@@ -26,7 +26,7 @@
   </thead>
   <tbody>
     <tr align="center">
-      <td>
+      <td height="150px" width="220px">
         <img align="center" alt="Adler-MySQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
         <img align="center" alt="Adler-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
       </td>
@@ -44,7 +44,7 @@
         <img align="center" alt="Adler-Python" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
         <img align="center" alt="Adler-Kotlin" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
       </td>
-      <td> 
+      <td height="150px" width="220px"> 
         <img align="center" alt="Adler-Compose" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
       </td>
     </tr>
