@@ -12,7 +12,7 @@
   <img align="center" alt="Adler-Spring" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Adler-Insomnia" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Adler-JUnit" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
-  <img align="center" alt="Adler-Mockito" height="100" src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png">
+  <img align="center" alt="Adler-Mockito" height="80" src="images/mockito-icon.png">
   <img align="center" alt="Adler-Docker" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div><br>
 <b>Outras experiências:</b><br><br>
