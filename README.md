@@ -14,6 +14,7 @@
   <img align="center" alt="Adler-JUnit" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
   <img align="center" alt="Adler-Mockito" height="80" src="images/mockito-icon.png">
   <img align="center" alt="Adler-Docker" height="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="Adler-Lombok" height="75" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4">
 </div><br>
 <b>Outras experiências:</b><br><br>
 <table>
