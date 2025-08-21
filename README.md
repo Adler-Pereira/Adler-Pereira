@@ -56,7 +56,7 @@
 
 ## 📌 Projetos Destacados
 Abaixo estão alguns dos meus principais projetos:
-- 📱 **Jogo Termo** - Um projeto pessoal que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java. [Em andamento]
+- 📱 **Jogo Termo** - Um projeto pessoal que recria o famoso jogo do Termo com HTML, CSS, Javascript e Java.
 - ⚖️ **Balança de Pratos** - Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.
 - 👨‍👩‍👧‍👦 **Árvore Genealógica** - Um projeto de tecnólogo que utiliza de conceitos de estrutura de dados para construir uma árvore genealógica, utilizando nós e listas.
 
