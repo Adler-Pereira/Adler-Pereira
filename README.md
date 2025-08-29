@@ -10,6 +10,7 @@
   <img align="center" alt="Adler-Java" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Adler-Maven" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
   <img align="center" alt="Adler-Spring" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Adler-H2" height="70" src="images/h2-icon.png">
   <img align="center" alt="Adler-Insomnia" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Adler-Swagger" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
   <img align="center" alt="Adler-JUnit" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
