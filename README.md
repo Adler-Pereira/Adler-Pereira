@@ -5,7 +5,7 @@
 </div>
 
 ## 🛠️ Tecnologias & Ferramentas
-<b>Mais usadas:</b>
+<b>🧠💻📚 → Atualmente aprendendo:</b>
 <div style="display: inline_block">
 <table>
   <thead>
@@ -49,7 +49,7 @@
 </table>
 
 </div><br>
-<b>Outras experiências:</b><br><br>
+<b>🧰💻🗂️ → Outras experiências:</b><br><br>
 <table>
   <thead>
     <tr>
