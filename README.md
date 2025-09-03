@@ -21,28 +21,28 @@
   <tbody>
     <tr>
       <td align="center" height="150px" width="146px">
-        <img alt="Java" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-        <img alt="Maven" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
+        <img alt="Adler-Java" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+        <img alt="Adler-Maven" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
       </td>
       <td align="center" height="150px" width="147px">
-        <img alt="Spring" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-        <img alt="Lombok" height="65" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4">
-        <img alt="Mockito" height="65" src="images/mockito-icon.png">
+        <img alt="Adler-Spring" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+        <img alt="Adler-Lombok" height="65" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4">
+        <img alt="Adler-Mockito" height="65" src="images/mockito-icon.png">
       </td>
       <td align="center" height="150px" width="147px">
-        <img alt="JUnit" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
-        <img alt="Mockito" height="65" src="images/mockito-icon.png">
+        <img alt="Adler-JUnit" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
+        <img alt="Adler-Mockito" height="65" src="images/mockito-icon.png">
       </td>
       <td align="center" height="150px" width="146px">
-        <img align="center" alt="Adler-PostgreSQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-        <img alt="H2" height="60" src="images/h2-icon.png">
+        <img alt="Adler-PostgreSQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+        <img alt="Adler-H2" height="60" src="images/h2-icon.png">
       </td>
       <td align="center" height="150px" width="147px">
-        <img alt="Swagger" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
-        <img alt="Insomnia" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+        <img alt="Adler-Swagger" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
+        <img alt="Adler-Insomnia" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
       </td>
       <td align="center" height="150px" width="147px">
-        <img alt="Docker" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+        <img alt="Adler-Docker" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
       </td>
     </tr>
   </tbody>
