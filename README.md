@@ -93,7 +93,7 @@
   <thead>
     <tr>
       <th width="161">Banco de Dados</th>
-      <th>Nome</th>
+      <th width="131">Nome</th>
       <th>Conceito</th>
     </tr>
   </thead>
@@ -123,7 +123,7 @@
 <table>
   <thead>
     <tr>
-      <th>API & Documentação</th>
+      <th width="161">API & Documentação</th>
       <th width="131">Nome</th>
       <th>Conceito</th>
     </tr>
