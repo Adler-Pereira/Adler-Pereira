@@ -181,6 +181,7 @@
       <th>Frameworks</th>
       <th>Banco de Dados</th>
       <th>Plataformas de Nuvem</th>
+      <th>Outras Ferramentas</th>
     </tr>
   </thead>
   <tbody>
@@ -192,11 +193,11 @@
         <img align="center" alt="Adler-Python" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
         <img align="center" alt="Adler-Kotlin" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
       </td>
-      <td height="150px" width="220px">
+      <td height="150px" width="150px">
         <img align="center" alt="Adler-Bootstrap" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
         <img align="center" alt="Adler-Compose" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
       </td>
-      <td height="150px" width="220px">
+      <td height="150px" width="150px">
         <img align="center" alt="Adler-MySQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
       </td>
       <td height="150px" width="220px">
@@ -205,6 +206,9 @@
         <img align="center" alt="Adler-GoogleCloud" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
         <img align="center" alt="Adler-Railway" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
         <img align="center" alt="Adler-Render" height="45" width="45" src="https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png">
+      </td>
+      <td height="150px" width="150px">
+        <img align="center" alt="Adler-MySQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg">
       </td>
     </tr>
   </tbody>
