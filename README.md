@@ -217,7 +217,7 @@
 ## 📌 Projetos Destacados
 Abaixo estão alguns dos meus principais projetos:
 - 📱 **[Jogo Termo](https://github.com/Adler-Pereira/termo)**  
-  Um projeto pessoal que recria o famoso jogo Termo, utilizando **HTML, CSS, JavaScript e Java (AWS Lambda)**.
+  Um projeto pessoal que recria o famoso jogo Termo, utilizando **HTML, CSS, JavaScript e Java (AWS Lambda e API Spring Boot na Render)**.
 
 - ⚖️ **[Balança de Pratos](https://github.com/Adler-Pereira/balanca-de-pratos)**  
   Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.
