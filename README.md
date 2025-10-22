@@ -224,6 +224,9 @@ Abaixo estão alguns dos meus principais projetos:
   
 - 👨‍👩‍👧‍👦 **[Árvore Genealógica](https://github.com/Adler-Pereira/arvore-genealogica)**  
   Um projeto de tecnólogo que utiliza de conceitos de estrutura de dados para construir uma árvore genealógica, utilizando nós e listas.
+  
+- 📋 **[Simporg](https://github.com/Adler-Pereira/simporg-ui)**  
+  Simporg é uma aplicação web que simplifica a organização de tarefas e projetos por meio de uma API moderna e eficiente.
 
 ### 🧑‍💻*Portfólio: <a href="https://adler-pereira.github.io/portfolio/" target="_blank">https://adler-pereira.github.io/portfolio/</a>*
 
