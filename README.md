@@ -226,7 +226,7 @@ Abaixo estão alguns dos meus principais projetos:
   Um projeto de tecnólogo que utiliza de conceitos de estrutura de dados para construir uma árvore genealógica, utilizando nós e listas. **[Java].**
   
 - 📋 **[Simporg](https://github.com/Adler-Pereira/simporg-ui) [Em andamento]**  
-  Simporg é uma aplicação web que simplifica a organização de tarefas e projetos por meio de uma API moderna e eficiente. **[HTML, CSS e Javascript].*
+  Simporg é uma aplicação web que simplifica a organização de tarefas e projetos por meio de uma API moderna e eficiente. **[HTML, CSS e Javascript].**
 
 ### 🧑‍💻*Portfólio: <a href="https://adler-pereira.github.io/portfolio/" target="_blank">https://adler-pereira.github.io/portfolio/</a>*
 
