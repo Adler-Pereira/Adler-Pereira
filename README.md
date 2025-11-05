@@ -217,19 +217,19 @@
 ## 📌 Projetos Destacados
 Abaixo estão alguns dos meus principais projetos:
 - 📱 **[Jogo Termo](https://github.com/Adler-Pereira/termo)**  
-  Um projeto pessoal que recria o famoso jogo Termo.
+  Um projeto pessoal que recria o famoso jogo Termo.</br>
 **[HTML, CSS, JavaScript e Java (AWS Lambda e API Spring Boot na Render)]**.
 
 - ⚖️ **[Balança de Pratos](https://github.com/Adler-Pereira/balanca-de-pratos)**  
-  Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.
+  Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.</br>
 **[HTML, CSS e Javascript].**
   
 - 👨‍👩‍👧‍👦 **[Árvore Genealógica](https://github.com/Adler-Pereira/arvore-genealogica)**  
-  Um projeto de tecnólogo que utiliza de conceitos de estrutura de dados para construir uma árvore genealógica, utilizando nós e listas.
+  Um projeto de tecnólogo que utiliza de conceitos de estrutura de dados para construir uma árvore genealógica, utilizando nós e listas.</br>
 **[Java].**
   
 - 📋 **[Simporg](https://github.com/Adler-Pereira/simporg-ui) [Em andamento]**  
-  Simporg é uma aplicação web que simplifica a organização de tarefas e projetos por meio de uma API moderna e eficiente.
+  Simporg é uma aplicação web que simplifica a organização de tarefas e projetos por meio de uma API moderna e eficiente.</br>
 **[HTML, CSS e Javascript].**
 
 ### 🧑‍💻*Portfólio: <a href="https://adler-pereira.github.io/portfolio/" target="_blank">https://adler-pereira.github.io/portfolio/</a>*
