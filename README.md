@@ -1,7 +1,7 @@
 # 👋🏻 Olá, eu sou Adler Lima!
 <div align="center">
   <a href="https://github.com/Adler-Pereira">
-    <img width="470em" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Adler-Pereira&theme=java-dark&border_radius=4.5&locale=pt_BR"/><img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adler-Pereira&hide=python&layout=donut&langs_count=16&theme=vision-friendly-dark&locale=pt-br&border_color=f89820"/>
+    <img width="470em" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Adler-Pereira&theme=java-dark&border_radius=4.5&locale=pt_BR"/><img width="300em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Adler-Pereira&hide=dockerfile&layout=donut&langs_count=16&theme=vision-friendly-dark&locale=pt-br&border_color=f89820"/>
 </div>
 
 ## 🛠️ Tecnologias & Ferramentas
