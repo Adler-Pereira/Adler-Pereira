@@ -228,6 +228,10 @@ Abaixo estão alguns dos meus principais projetos:
 - 👨‍👩‍👧‍👦 **[Árvore Genealógica](https://github.com/Adler-Pereira/arvore-genealogica)**  
   Um projeto de tecnólogo que utiliza de conceitos de estrutura de dados para construir uma árvore genealógica, utilizando nós e listas.</br>
 **[Java]**
+
+- 🍽️ **[Receitas API](https://github.com/Adler-Pereira/receitas-api)**  
+  Projeto desenvolvido em Python com o objetivo de buscar receitas a partir de um ingrediente informado em português.</br>
+**[Python]**
   
 - 📋 **[Simporg](https://github.com/Adler-Pereira/simporg-ui) [Em andamento]**  
   Simporg é uma aplicação web que simplifica a organização de tarefas e projetos por meio de uma API moderna e eficiente.</br>
