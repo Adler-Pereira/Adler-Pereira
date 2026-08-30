@@ -24,7 +24,28 @@
         <h3>C#</h3>
       </td>
       <td align="center">
-        <p align="justify">Linguagem orientada a objetos, desenvolvida pela Microsoft, amplamente utilizada no desenvolvimento de aplicações web, desktop, mobile e jogos, oferecendo produtividade, segurança e integração com o ecossistema .NET.</p>
+        <p align="justify">Linguagem de programação orientada a objetos desenvolvida pela Microsoft, utilizada na criação de aplicações web, desktop, mobile e jogos, destacando-se pela tipagem forte, legibilidade e recursos modernos de programação.</p>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th width="161">Framework</th>
+      <th width="131">Nome</th>
+      <th>Conceito</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img alt="Adler-DotNet" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
+      </td>
+      <td align="center">
+        <h3>.NET Framework</h3>
+      </td>
+      <td align="center">
+        <p align="justify">Plataforma de desenvolvimento da Microsoft que fornece bibliotecas, ferramentas e recursos para a criação e execução de aplicações, facilitando o desenvolvimento de sistemas por meio de componentes reutilizáveis e integração com diferentes tecnologias.</p>
     </tr>
   </tbody>
 </table>
