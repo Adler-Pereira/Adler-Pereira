@@ -125,7 +125,7 @@
         <img align="center" alt="Adler-H2" height="45" width="45" src="images/h2-icon.png">
       </td>
       <td height="150px" width="185px">
-        <img align="center" alt="Adler-AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+        <img align="center" alt="Adler-AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg">
         <img align="center" alt="Adler-Azure" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
         <img align="center" alt="Adler-GoogleCloud" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
         <img align="center" alt="Adler-Railway" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg">
